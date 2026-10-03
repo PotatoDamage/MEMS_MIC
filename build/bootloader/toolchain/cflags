@@ -1,0 +1,2 @@
+"-specs=C:/Users/Dylan/Mic_project/build/bootloader/specs/picolibc.specs"
+-march=rv32imac_zicsr_zifencei_zaamo_zalrsc
